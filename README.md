@@ -30,7 +30,8 @@ draw.Draw(receiver, img.Bounds(), img, image.Bounds().Min, draw.Src)
 
 ## See Also
 
-Also see:
+For other useful Go packages that seamlessly works with Go's built-in `"image"`, `"image/color"`, and `"image/draw"` packages, also see:
+
 * https://github.com/reiver/go-dast8x8
 * https://github.com/reiver/go-dynaimg
 * https://github.com/reiver/go-font8x8
